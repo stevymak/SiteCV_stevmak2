@@ -210,7 +210,7 @@
                         <div id="success"></div>
                         <div class="row">
                             <div class="form-group col-xs-12">
-                                <button type="submit" class="btn btn-success btn-lg">Send</button>
+                                <button type="submit" style="background-color:#0044E3;" class="btn btn-success btn-lg">Send</button>
                             </div>
                         </div>
                     </form>
